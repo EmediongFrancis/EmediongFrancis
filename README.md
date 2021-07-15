@@ -6,7 +6,7 @@
 
 
 ![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis)](https://github.com/emediongfrancis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis&layout=compact)](https://github.com/emediongfrancis/github-readme-stats)
 
 <!---
 EmediongFrancis/EmediongFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
