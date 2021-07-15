@@ -5,7 +5,7 @@
 - 📫 How to reach me; emedoingfrancis@gmail.com
 
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra
+![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis)
 <!---
 EmediongFrancis/EmediongFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
