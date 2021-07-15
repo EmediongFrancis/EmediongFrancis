@@ -5,7 +5,7 @@
 - 📫 How to reach me; emedoingfrancis@gmail.com
 
 
-![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=dark)
+![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis&layout=compact&theme=dark)](https://github.com/emediongfrancis/github-readme-stats)
 
 <!---
