@@ -31,6 +31,26 @@
 <br/>
 <br/>
 
+<details>
+	<summary>🔎&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<br/>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+<img src = "https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=Kalilinux&logoColor=white">
+<img src = "https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+<img src = "https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
+</details>
+
 ![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis&langs_count=10&layout=compact&theme=radical)](https://github.com/emediongfrancis/github-readme-stats)
 
