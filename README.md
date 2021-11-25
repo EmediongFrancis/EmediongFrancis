@@ -1,4 +1,4 @@
-# <img width="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hello, Earthling!<img align="bottom" width="50px" src="https://c.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif"/>
+# <img width="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>, Earthling!<img align="bottom" width="50px" src="https://c.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif"/>
 # Name&rsquo;s Emediong &lsquo;Bendito&rsquo; Francis. <img align="bottom" width="50px" src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif"/>
 
 # 🎩 About Me 
