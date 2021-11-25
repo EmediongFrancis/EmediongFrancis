@@ -1,4 +1,4 @@
-# Hello, Earthling! 🌍
+# Hello, Earthling! <img align="bottom" width="50px" src="https://c.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif"/>
 # The name&rsquo;s Emediong &lsquo;Bendito&rsquo; Francis. 🤝
 
 # 🎩 About Me 
