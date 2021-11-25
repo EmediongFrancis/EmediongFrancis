@@ -32,6 +32,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 <details>
 	<summary>💼&nbsp;&nbsp;&nbsp;<b>Skills:</b></summary>
 	<br/>
