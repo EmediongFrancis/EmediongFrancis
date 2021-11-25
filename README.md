@@ -51,6 +51,14 @@
 <img src = "https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=Kalilinux&logoColor=white">
 <img src = "https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
 <img src = "https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
+<img src = "https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white">
+<img src = "https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src = "https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=white">
+<img src = "https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white">
+<img src = "https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white">
+<img src = "https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<img src = "https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white">
+<img src = "https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white">
 </details>
 
 
