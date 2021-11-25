@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @EmediongFrancis || Bendito.
-- 👀 I’m interested in backend development.
+# Hello, Earthling! 🌍
+
+# 🎩 About Me 
+
+- 👋 I’m Emediong Francis || Bendito.
+- 👀 I’m interested in software engineering (backend).
 - 🌱 I’m currently learning software engineering at Holberton School.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me; emediongfrancis@gmail.com
 - 😈  This readme will be fully updated in due time.
+
 
 
 ![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical)
