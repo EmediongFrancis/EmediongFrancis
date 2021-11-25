@@ -24,8 +24,9 @@
   <a href="https://instagram.com/benditofrancis/">
     <img align="left" alt="Emediong Francis | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  
-  
+  <a href="https://facebook.com/emediongfrancis15/">
+    <img align="left" alt="Emediong Francis | Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
   
 <br/>
 <br/>
