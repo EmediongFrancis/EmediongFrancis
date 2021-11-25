@@ -21,6 +21,11 @@
   <a href="https://github.com/EmediongFrancis/">
     <img align="left" alt="Emediong Francis | Github" width="100px" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/benditofrancis/">
+    <img align="left" alt="Emediong Francis | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  
+  
   
 <br/>
 <br/>
