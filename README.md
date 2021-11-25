@@ -9,7 +9,7 @@
 - 😈  This readme will be fully updated in due time.
 
  <a href="https://www.linkedin.com/in/emediong-francis-868338205/">
-    <img align="left" alt="Emediong Francis | Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue"/>
+    <img align="left" alt="Emediong Francis | Linkedin" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue"/>
   </a>
   <a href="https://twitter.com/emediongfrancis">
     <img align="left" alt="Emediong Francis | Twitter" width="90px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=blue"/>
