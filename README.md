@@ -30,6 +30,9 @@
   
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 <details>
 	<summary>💼&nbsp;&nbsp;&nbsp;<b>Skills:</b></summary>
 	<br/>
@@ -54,9 +57,10 @@
 <details>
 	<summary>📈&nbsp;&nbsp;&nbsp;<b>Github Stats:</b></summary>
 	<br/>
-![Emediong's Github stats](https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis&langs_count=10&layout=compact&theme=radical)](https://github.com/emediongfrancis/github-readme-stats)
+	<img src="https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emediongfrancis&langs_count=10&layout=compact&theme=radical"/>
 </details>
+
 <!---
 EmediongFrancis/EmediongFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
