@@ -1,12 +1,12 @@
 # <img width="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>, Earthling!<img align="bottom" width="50px" src="https://c.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif"/>
 # It&rsquo;s nice to have you here. Enjoy your stay. <img align="bottom" width="50px" src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif"/>
 
-# 🔮 | 🔊
+# 🔮 | 🔊 
 
 - 👀 I’m interested in software engineering (backend).
 - 🌱 I’m currently learning software engineering at Holberton School.
 - 💞️ I’m looking to collaborate on projects.
-- 😈  This readme will be fully updated in due time.
+- 😈 This readme will be fully updated in due time.
 
  <a href="https://www.linkedin.com/in/emediong-francis-868338205/">
     <img align="left" alt="Emediong Francis | Linkedin" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue"/>
