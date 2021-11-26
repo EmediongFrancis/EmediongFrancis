@@ -1,7 +1,7 @@
 # <img width="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>, Earthling!<img align="bottom" width="50px" src="https://c.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif"/>
-# Name&rsquo;s Emediong &lsquo;Bendito&rsquo; Francis. <img align="bottom" width="50px" src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif"/>
+# It&rsquo;s nice to have you here. Enjoy your stay. <img align="bottom" width="50px" src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif"/>
 
-# 🎩 About Me 
+# 🔮 | 🔊
 
 - 👀 I’m interested in software engineering (backend).
 - 🌱 I’m currently learning software engineering at Holberton School.
