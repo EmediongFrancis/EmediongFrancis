@@ -57,6 +57,18 @@
 <img src = "https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img src = "https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white">
 <img src = "https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white">
+<img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+<img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/Puppet-FFAE1A?style=flat&logo=puppet&logoColor=white">
+<img src = "https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+<img src = "https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
+<img src = "https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src = "https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img src = "https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
+<img src = "https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src = "https://img.shields.io/badge/DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white">
+<img src = "https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white">
+<img src = "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </details>
 
 
