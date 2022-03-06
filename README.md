@@ -70,6 +70,7 @@
 <img src = "https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white">
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src = "https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white">
+<img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
 </details>
 
 
