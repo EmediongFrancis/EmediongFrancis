@@ -2,7 +2,7 @@
 
 <h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Emediong &ldquo;Bendito&rdquo; Francis. 😁</h1>
 <h2 align="center">A dauntless Software Engineer. 💻</h2>
-<img/>
+<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 - 🔭 I’m currently working on [a banking system.](https://github.com/emediongfrancis/amabilis-bank)
 
