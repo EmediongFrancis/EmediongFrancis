@@ -1,7 +1,7 @@
 
 
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Emediong &ldquo;Bendito&rdquo; Francis. 😁</h1>
-<h2 align="center">An eccentric Software/Data Engineer. 💻</h2>
+<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, Emediong &ldquo;Bendito&rdquo; Francis here. 😁</h1>
+<h2 align="center">Software/Data Engineering. </h2>
 <center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 - 🔭 I’m currently working on Data Engineering projects.
